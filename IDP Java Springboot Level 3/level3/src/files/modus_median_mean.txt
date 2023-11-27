@@ -1,0 +1,5 @@
+Berikut Hasil Pengolahan Nilai: 
+ 
+Mean: 8.318181818181818
+Median: 8
+Modus: 7
